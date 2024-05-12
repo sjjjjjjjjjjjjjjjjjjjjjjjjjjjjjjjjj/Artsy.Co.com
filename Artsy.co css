@@ -1,0 +1,43 @@
+body {
+  background: #ffcbe4;
+}
+h1 {color: white;
+}
+h1 {
+  font-weight: bold;
+}
+h1{
+  font-family:fantasy;
+}
+h1{
+  font-size: 75px;
+  text-align: center;
+}
+p{
+  color: floralwhite;
+  text-align: center;
+  font-family: cursive
+}
+h2{
+  text-align: center;
+  text-decoration:underline;
+  text-decoration-color: aliceblue;
+  color: floralwhite;
+  font-family: cursive;
+
+}
+a{
+  color: white;
+  font-family: cursive
+}
+my.Image{
+  background-image: url(shaded-sphere.jpg);
+  
+}
+img{
+  height:100px;
+}
+h3{color:azure;
+font-family:cursive;
+  
+}
