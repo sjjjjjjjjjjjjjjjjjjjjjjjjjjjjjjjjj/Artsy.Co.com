@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>https://github.com/sjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj/Artsy.Co.com/tree/main
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Artsy.co</h1>
+    <p> Developed by Mayar Alaa Bellebia</p>
+    <p> Founded by Ayva Alice McClory</p>
+    <p> A project created by two 10-year olds</p>
+    <h2> About Us</h2>
+    <p> Welcome to Artsy.co where you are free to let your imagination take flight.Our mission is to spread creativity around the world because everyone deserves to let their imagionation run wild. At artsy.co we strive to teach young minds to let loose and have fun no matter the circumstances. Artsy.Co teaches you to use the many teqniuqes of art such as texture,shading,abstract,self potraits and much more and its all for free! please read the following about how to  draw and the many teqniuqes to become a great artist.</p>
+    <h2> Shading</h2>
+    <a href= "https://www.youtube.com/watch?v=-WR-FyUQc6I"> this link will send you to a video on how to shade and add texture to your sketches.</a>
+    <p>Shading is the darkening or colouring of a drawing with lines or blocks of colour, and is often used to create the illusion of depth or make an object three-dimensional.</p>
+   
+    <img src="shaded-sphere.jpg" alt="Image description"/>
+    <h3> Try It!</h3><p> NOw that you have learned the basic  fundementals your free try it yourself!</p>
+    <h2> Self Portraits</h2>
+    <a href="https://www.youtube.com/watch?v=8qjPmbLYDck"> This Video will teach you how to draw a self portrait</a>
+    <p>A self-portrait is a portrait of an artist made by themselves.</p>
+    <img src="SelfPortraitblog.jpg" alt="Image description"/>
+    <h3> Try It!</h3><p> NOw that you have learned the basic  fundementals your free try it yourself!</p>
+    <h2> Abstract</h2>
+    <h3> for this progect it is recommended you have paint of markers if you dont have theese supplies feel free to skip this lesson. THank You!</h3>  
+    <a href="https://www.youtube.com/watch?v=OjOQVednNFA"> This video will teach you how to do simple abstract.</a>
+    <p>abstract is art that does not attempt to represent external reality, but seeks to achieve its effect using shapes, forms, colors, and textures.</p>
+    <img src="Jackson-Pollock-detail.jpg" alt="Image description"/>
+    <h3> Try It!</h3><p> NOw that you have learned the basic  fundementals your free try it yourself!</p>
+    <h1> Attention!!! You have reached the end of our website</h1>
+    <p> we hope you enjoyed. if you have any recomendations like lessons we should include or the format of the website feel free to rech out to us at mayarb@ps130.org. Hope you enjoyed and remenber anything is possible if you put your mind to it.</p>
+    
+    <h1> Wait!</h1>
+    <p> before you leave please reach out to others about our website we would really appreciate it if you did!</p>
+    
+    
+    
+    
+  </body>
+</html>
